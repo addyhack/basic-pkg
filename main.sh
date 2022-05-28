@@ -33,7 +33,10 @@
  
  echo"THANKS FOR USING MY SCRITP"
  
- clear
+ cd basic-pkg
+ ls
+ chmod +x main.sh
+ bash main.sh
  
  
  
