@@ -32,6 +32,8 @@
  apt-get install nmap -y
  
  echo"THANKS FOR USING MY SCRITP"
+
+ rm -rf basic-pkg
  
  cd basic-pkg
  ls
